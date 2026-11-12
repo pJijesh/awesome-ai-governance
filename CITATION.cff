@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "awesome-ai-governance"
+abstract: "A short, checked list of primary sources and open-source tools for AI governance: law, standards, guidance from public bodies, security references, incident databases, and testing and fairness tools."
+type: software
+authors:
+  - family-names: "Puliyappottammal"
+    given-names: "Jijesh"
+repository-code: "https://github.com/pJijesh/awesome-ai-governance"
+url: "https://github.com/pJijesh/awesome-ai-governance"
+license: MIT
+version: 1.0.0
+date-released: "2026-11-12"
+keywords:
+  - awesome-list
+  - ai-governance
+  - eu-ai-act
+  - iso-42001
+  - nist-ai-rmf
+  - ai-security

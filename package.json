@@ -1,0 +1,11 @@
+{
+  "name": "awesome-ai-governance",
+  "version": "1.0.0",
+  "description": "A short, checked list of primary sources and open-source tools for AI governance.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Puliyappottammal Jijesh",
+  "repository": { "type": "git", "url": "git+https://github.com/pJijesh/awesome-ai-governance.git" },
+  "scripts": { "build": "node scripts/build.mjs", "check": "node scripts/build.mjs --check", "links": "node scripts/check-links.mjs", "test": "node --test" },
+  "engines": { "node": ">=18" }
+}

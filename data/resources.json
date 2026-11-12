@@ -1,0 +1,252 @@
+{
+  "categories": [
+    {
+      "name": "Regulation and law",
+      "intro": "Primary legal texts and the bodies that implement them."
+    },
+    {
+      "name": "Standards and frameworks",
+      "intro": "Frameworks and standards you can build a management system on."
+    },
+    {
+      "name": "Guidance from public bodies",
+      "intro": "Practical guidance from regulators and government bodies."
+    },
+    {
+      "name": "Security and threat models",
+      "intro": "Where AI security is described and catalogued."
+    },
+    {
+      "name": "Risk catalogues and incident databases",
+      "intro": "Evidence of what goes wrong, and structured ways to think about it."
+    },
+    {
+      "name": "Testing, evaluation and red teaming tools",
+      "intro": "Open-source tools for testing and evaluating AI systems."
+    },
+    {
+      "name": "Fairness tools",
+      "intro": "Open-source tools for measuring and reducing bias."
+    },
+    {
+      "name": "Documentation practice",
+      "intro": "How to describe a model so others can judge it."
+    },
+    {
+      "name": "By the maintainer",
+      "intro": "Related repositories by the maintainer. Listed last and kept short on purpose."
+    }
+  ],
+  "resources": [
+    {
+      "category": "Regulation and law",
+      "name": "EU AI Act, official text",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+      "description": "The authoritative text of Regulation (EU) 2024/1689 in the Official Journal."
+    },
+    {
+      "category": "Regulation and law",
+      "name": "AI Act Explorer",
+      "url": "https://artificialintelligenceact.eu/ai-act-explorer/",
+      "description": "A browsable version of the Act by article, recital and annex, from the Future of Life Institute."
+    },
+    {
+      "category": "Regulation and law",
+      "name": "European Commission AI Office",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-office",
+      "description": "The Commission body that supports AI Act implementation, with guidance and codes of practice."
+    },
+    {
+      "category": "Regulation and law",
+      "name": "Council of Europe Framework Convention on AI",
+      "url": "https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence",
+      "description": "The first legally binding international treaty on AI, human rights, democracy and the rule of law."
+    },
+    {
+      "category": "Regulation and law",
+      "name": "UNESCO Recommendation on the Ethics of AI",
+      "url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+      "description": "A global ethical standard adopted by UNESCO member states, with policy action areas."
+    },
+    {
+      "category": "Standards and frameworks",
+      "name": "NIST AI Risk Management Framework",
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+      "description": "A voluntary framework to govern, map, measure and manage AI risk."
+    },
+    {
+      "category": "Standards and frameworks",
+      "name": "NIST AI RMF Generative AI Profile",
+      "url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence",
+      "description": "A companion profile that applies the AI RMF to generative AI risks."
+    },
+    {
+      "category": "Standards and frameworks",
+      "name": "ISO/IEC 42001",
+      "url": "https://www.iso.org/standard/81230.html",
+      "description": "The international standard for an AI management system, with a free summary page and a paid full text."
+    },
+    {
+      "category": "Standards and frameworks",
+      "name": "OECD AI Principles",
+      "url": "https://oecd.ai/en/ai-principles",
+      "description": "Intergovernmental principles for trustworthy AI, the basis of much national policy."
+    },
+    {
+      "category": "Standards and frameworks",
+      "name": "Singapore's approach to AI governance",
+      "url": "https://www.pdpc.gov.sg/organisations/resources/guidance-by-topic/singapores-approach-to-ai-governance",
+      "description": "Singapore's guidance on AI governance, including its Model AI Governance Framework."
+    },
+    {
+      "category": "Standards and frameworks",
+      "name": "CSA AI Controls Matrix",
+      "url": "https://cloudsecurityalliance.org/artifacts/ai-controls-matrix",
+      "description": "A vendor-neutral control framework for trustworthy AI from the Cloud Security Alliance."
+    },
+    {
+      "category": "Guidance from public bodies",
+      "name": "ICO guidance on AI and data protection",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/",
+      "description": "The UK regulator's guidance on applying data protection law to AI systems."
+    },
+    {
+      "category": "Guidance from public bodies",
+      "name": "NCSC guidelines for secure AI system development",
+      "url": "https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development",
+      "description": "Secure design, development, deployment and operation guidance from the UK NCSC and partners."
+    },
+    {
+      "category": "Guidance from public bodies",
+      "name": "UK AI Security Institute",
+      "url": "https://www.aisi.gov.uk/",
+      "description": "The UK government body that evaluates advanced AI and publishes research."
+    },
+    {
+      "category": "Guidance from public bodies",
+      "name": "OECD.AI Policy Observatory",
+      "url": "https://oecd.ai/",
+      "description": "A directory of national AI policies, tools and metrics."
+    },
+    {
+      "category": "Security and threat models",
+      "name": "OWASP GenAI Security Project",
+      "url": "https://genai.owasp.org/",
+      "description": "OWASP's home for generative AI security guidance, checklists and resources."
+    },
+    {
+      "category": "Security and threat models",
+      "name": "OWASP Top 10 for LLM Applications",
+      "url": "https://genai.owasp.org/llm-top-10/",
+      "description": "The ten most critical security risks for applications built on large language models."
+    },
+    {
+      "category": "Security and threat models",
+      "name": "MITRE ATLAS",
+      "url": "https://atlas.mitre.org/",
+      "description": "A knowledge base of adversary tactics and techniques against AI systems."
+    },
+    {
+      "category": "Security and threat models",
+      "name": "Google Secure AI Framework",
+      "url": "https://saif.google/",
+      "description": "A conceptual framework for securing AI systems, with a risk self-assessment."
+    },
+    {
+      "category": "Risk catalogues and incident databases",
+      "name": "AI Incident Database",
+      "url": "https://incidentdatabase.ai/",
+      "description": "A searchable collection of reports of harms and near harms caused by AI systems."
+    },
+    {
+      "category": "Risk catalogues and incident databases",
+      "name": "OECD AI Incidents Monitor",
+      "url": "https://oecd.ai/en/incidents",
+      "description": "A monitor of AI incidents and hazards drawn from news sources."
+    },
+    {
+      "category": "Risk catalogues and incident databases",
+      "name": "MIT AI Risk Repository",
+      "url": "https://airisk.mit.edu/",
+      "description": "A database of AI risks from the literature, with a taxonomy."
+    },
+    {
+      "category": "Testing, evaluation and red teaming tools",
+      "name": "garak",
+      "url": "https://github.com/NVIDIA/garak",
+      "description": "A vulnerability scanner for large language models."
+    },
+    {
+      "category": "Testing, evaluation and red teaming tools",
+      "name": "Giskard",
+      "url": "https://github.com/Giskard-AI/giskard-oss",
+      "description": "An open-source evaluation and testing library for LLM agents."
+    },
+    {
+      "category": "Testing, evaluation and red teaming tools",
+      "name": "Inspect",
+      "url": "https://github.com/UKGovernmentBEIS/inspect_ai",
+      "description": "A framework for large language model evaluations from the UK AI Security Institute."
+    },
+    {
+      "category": "Testing, evaluation and red teaming tools",
+      "name": "promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "description": "A command-line tool and library for evaluating and red-teaming LLM applications."
+    },
+    {
+      "category": "Testing, evaluation and red teaming tools",
+      "name": "PyRIT",
+      "url": "https://github.com/microsoft/PyRIT",
+      "description": "A framework for finding risks in generative AI systems, from Microsoft."
+    },
+    {
+      "category": "Fairness tools",
+      "name": "AI Fairness 360",
+      "url": "https://github.com/Trusted-AI/AIF360",
+      "description": "A toolkit of fairness metrics and bias mitigation algorithms."
+    },
+    {
+      "category": "Fairness tools",
+      "name": "Fairlearn",
+      "url": "https://github.com/fairlearn/fairlearn",
+      "description": "A Python package to assess and improve the fairness of machine learning models."
+    },
+    {
+      "category": "Documentation practice",
+      "name": "Hugging Face model cards",
+      "url": "https://huggingface.co/docs/hub/model-cards",
+      "description": "A practical guide to documenting a model, with a template."
+    },
+    {
+      "category": "Documentation practice",
+      "name": "Model Cards for Model Reporting",
+      "url": "https://arxiv.org/abs/1810.03993",
+      "description": "The 2018 paper that proposed model cards as short documents for reporting a model."
+    },
+    {
+      "category": "By the maintainer",
+      "name": "ai-governance-toolkit",
+      "url": "https://github.com/pJijesh/ai-governance-toolkit",
+      "description": "A control matrix mapping ISO/IEC 42001, the EU AI Act and NIST AI RMF, with templates and a validator."
+    },
+    {
+      "category": "By the maintainer",
+      "name": "ai-use-register-skill",
+      "url": "https://github.com/pJijesh/ai-use-register-skill",
+      "description": "An agent skill that finds AI use in code and builds an evidence-cited AI system register."
+    },
+    {
+      "category": "By the maintainer",
+      "name": "eu-ai-act-risk-classifier",
+      "url": "https://github.com/pJijesh/eu-ai-act-risk-classifier",
+      "description": "A short questionnaire that gives an EU AI Act risk tier, obligations and key dates."
+    },
+    {
+      "category": "By the maintainer",
+      "name": "eu-ai-act-tracker",
+      "url": "https://github.com/pJijesh/eu-ai-act-tracker",
+      "description": "A sourced EU AI Act timeline as data, with a calendar file and a small CLI."
+    }
+  ]
+}
